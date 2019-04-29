@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "technicalDogChallenge",
+"dataUrl": "DELTum1TechnicalChallenge.data.unityweb",
+"asmCodeUrl": "DELTum1TechnicalChallenge.asm.code.unityweb",
+"asmMemoryUrl": "DELTum1TechnicalChallenge.asm.memory.unityweb",
+"asmFrameworkUrl": "DELTum1TechnicalChallenge.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
